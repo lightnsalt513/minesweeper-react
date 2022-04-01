@@ -5,6 +5,7 @@
 * React를 사용해 지뢰찾기(Minesweeper) 게임을 구현해보는 프로젝트
 * 확인방법 :
   * 결과는 아래 Demo URL을 통해 확인
+  * 모던 브라우저에서 확인 가능 (IE 미지원)
   * 로컬에서 프로젝트 확인 시 클론 후 터미널에 `npm start`로 로컬 서버 실행
 > **Demo URL** : https://lightnsalt513.github.io/minesweeper-react
 
