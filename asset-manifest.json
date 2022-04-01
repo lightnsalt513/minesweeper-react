@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/minesweeper-react/static/js/main.6dad9ca6.js",
+    "index.html": "/minesweeper-react/index.html",
+    "main.6dad9ca6.js.map": "/minesweeper-react/static/js/main.6dad9ca6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6dad9ca6.js"
+  ]
+}
